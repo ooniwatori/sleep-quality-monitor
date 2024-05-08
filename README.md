@@ -11,6 +11,8 @@ Then use application to connnect to arduino. Wear the belt bag with arduino. Fin
 
 Application would show your sleep record.<br />
 ![image](https://github.com/ooniwatori/sleep-quality-monitor/blob/main/demo/demo2.png)<br />
+
+Record show sleep stage by blue and orange line.
 ![image](https://github.com/ooniwatori/sleep-quality-monitor/blob/main/demo/demo3.png)<br /><br />
 
 
