@@ -19,7 +19,7 @@ Application can apply 2DFFT on image data. Also can apply filtering in frequency
 # Environments 
 
 * Language C++
-* Compiler [AppInventor](https://appinventor.mit.edu/) [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
+* Compiler [AppInventor](https://appinventor.mit.edu/),  [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
 * OS Microsoft Windows10 pro
 
 # Note
