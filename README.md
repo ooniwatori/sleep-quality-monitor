@@ -18,12 +18,11 @@ Application can apply 2DFFT on image data. Also can apply filtering in frequency
 
 # Environments 
 
-* Language Java SDK 17.0.1
-* Compiler [Eclipse](https://www.eclipse.org/).
+* Language C++
+* Compiler [AppInventor](https://appinventor.mit.edu/) [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
 * OS Microsoft Windows10 pro
 
 # Note
 
-Also you can import application source code from MIT AppInventor.
-
+Also you can import application source code from MIT AppInventor.<br />
 https://gallery.appinventor.mit.edu/?galleryid=366c139f-9296-40b7-ae09-8df530bc02fd
