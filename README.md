@@ -1,5 +1,29 @@
-# sleep_quality_monitor
-A sleep quality monitor by arduino
+# Sleep quality monitor
+A sleep quality monitoring application by arduino.
 
-You also can import application source code from MIT AppInventor
+
+# DEMO
+
+
+Choose input image.<br />
+![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo1.png)<br />
+
+Application would show FFT result. Also you can select filter and change parameters.<br />
+![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo2.png)<br /><br />
+
+
+# Features
+
+Application can apply 2DFFT on image data. Also can apply filtering in frequency domain then show filtering result.
+
+# Environments 
+
+* Language Java SDK 17.0.1
+* Compiler [Eclipse](https://www.eclipse.org/).
+* OS Microsoft Windows10 pro
+
+# Note
+
+Also you can import application source code from MIT AppInventor.
+
 https://gallery.appinventor.mit.edu/?galleryid=366c139f-9296-40b7-ae09-8df530bc02fd
