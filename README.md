@@ -4,8 +4,9 @@ A sleep quality monitoring application by arduino.
 
 # DEMO
 
-
-Choose input image.<br />
+First you need a arduino nano with Power bank, Gy-85 9 axix sensor, HC-05 Bluetooth module, a Belt bag.
+Compile source.ino on arduino.
+Then use application to connnect to arduino. Wear the belt bag with arduino. Finally click start sleeping button, it will start monitoring your sleep quality and wake you in adequate time.<br />
 ![image](https://github.com/ooniwatori/2DFFT-system/blob/main/demo/demo1.png)<br />
 
 Application would show FFT result. Also you can select filter and change parameters.<br />
@@ -14,7 +15,8 @@ Application would show FFT result. Also you can select filter and change paramet
 
 # Features
 
-Application can apply 2DFFT on image data. Also can apply filtering in frequency domain then show filtering result.
+Application can monitoring your sleep quality and wake you in adequate time.
+Also record your sleeping history which you can check it.
 
 # Environments 
 
