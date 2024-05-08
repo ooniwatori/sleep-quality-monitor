@@ -25,7 +25,7 @@ Also record your sleep record which you can check it.
 
 * Language C++
 * Compiler [AppInventor](https://appinventor.mit.edu/),  [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
-* OS Microsoft Windows10 pro
+* OS Microsoft Windows10 pro, Android 13
 
 # Note
 
